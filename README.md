@@ -11,10 +11,10 @@ A 12-week foundational robotics project aiming to build a real-time radar visual
 
 ### Phase 1: Foundation (Weeks 1–2) — [CURRENT PHASE]
 * [ ] **Week 1:** Environment setup, firmware flashing, and hardware "Hello World" (LED Blink).
-* [x] **Week 2:** Wi-Fi provisioning, Local Web Server initialization, and implementing **Structured Logging Protocol** via Serial Monitor.
+* [ ] **Week 2:** Wi-Fi provisioning, Local Web Server initialization, and implementing **Structured Logging Protocol** via Serial Monitor.
 
 ### Phase 2: Hardware Integration (Weeks 3–6)
-* [ ] **Week 3-5:** Ultrasonic sensor (HC-SR04) calibration and Servo MG90S sweep synchronization.
+* [x] **Week 3-5:** Ultrasonic sensor (HC-SR04) calibration and Servo MG90S sweep synchronization.
 * [ ] **Week 6:** Chassis assembly, implementing the **Hardware Safety Layer** (Toggle Switch + 5A Fuse + LM2596), and deploying the *Stop & Scan* FSM algorithm.
 
 ### Phase 3: Software & Web UI (Weeks 7–10)
