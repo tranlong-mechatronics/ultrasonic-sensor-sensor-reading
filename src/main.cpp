@@ -1,6 +1,7 @@
+#include <Arduino.h>
 #include <WiFi.h>
 #include <WebServer.h>
-#include "secrets.h"
+#include <secrets.h>
 WebServer server(80); // Khởi tạo server chạy ở cổng số 80 (cổng chuẩn của giao thức HTTP)
 const int ledPin = 2;
 const char* ssid = SECRET_SSID;

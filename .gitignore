@@ -1,5 +1,5 @@
 
-secrets.h
+include/secrets.h
 # Prerequisites
 *.d
 
@@ -69,4 +69,6 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+.pio/
+.vscode/
 
