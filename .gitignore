@@ -71,4 +71,5 @@ Testing/
 .cache/
 .pio/
 .vscode/
+logs/
 
